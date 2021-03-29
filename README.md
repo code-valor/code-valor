@@ -1,4 +1,4 @@
-<h1 align="center">Welcome, I am **Valor**.</h1>
+<h1 align="center">Welcome, I am Valor.</h1>
 <h3 align="center">The youngest senior JavaScript developer in Turkey.</h3>
 
 - 👽 Who am i? [https://www.linkedin.com/in/egemens/](https://www.linkedin.com/in/egemens/)
