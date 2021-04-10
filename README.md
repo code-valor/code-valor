@@ -1,13 +1,10 @@
 <h1 align="center">Welcome, I am Valor.</h1>
 <h3 align="center">The youngest senior JavaScript developer in Turkey.</h3>
 
-- 👽 Who am i?
-
 - 📬 Contact to me via Discord **Valor#2370**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/egemens" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="egemens" height="30" width="40" /></a>
 <a href="https://discord.gg/fQGzuNSxtK" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="fQGzuNSxtK" height="30" width="40" /></a>
 </p>
 
