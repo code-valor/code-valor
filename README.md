@@ -1,5 +1,5 @@
 <h1 align="center">Welcome, I am Valor.</h1>
-<h3 align="center">The youngest senior JavaScript developer in Turkey.</h3>
+<h3 align="center">JS and PY Developer.</h3>
 
 - 📬 Contact to me via Discord **Valor#2370**
 
